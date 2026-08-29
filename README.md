@@ -36,7 +36,7 @@ Navigation groups (per language): **Get Started · Concepts · Guides · Observa
 ## Deployment
 
 Deploy with the [Mintlify GitHub app](https://mintlify.com/docs/quickstart): connect the
-`learningCatHD/telos-sdk` repository and set the **docs content root to `docs-site`**. Pushes to
+`eryflow/telos-sdk` repository and set the **docs content root to `docs-site`**. Pushes to
 the default branch publish automatically.
 
 The repository's existing `vercel.json` serves the separate marketing landing page (`site/`) and is

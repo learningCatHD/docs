@@ -12,7 +12,7 @@
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg",
-    "href": "https://github.com/learningCatHD/telos-sdk"
+    "href": "https://github.com/eryflow/telos-sdk"
   },
   "navigation": {
     "languages": [
@@ -136,7 +136,7 @@
     "links": [
       {
         "label": "GitHub",
-        "href": "https://github.com/learningCatHD/telos-sdk"
+        "href": "https://github.com/eryflow/telos-sdk"
       },
       {
         "label": "LEAP Lab",
@@ -146,12 +146,12 @@
     "primary": {
       "type": "button",
       "label": "Star on GitHub",
-      "href": "https://github.com/learningCatHD/telos-sdk"
+      "href": "https://github.com/eryflow/telos-sdk"
     }
   },
   "footer": {
     "socials": {
-      "github": "https://github.com/learningCatHD/telos-sdk",
+      "github": "https://github.com/eryflow/telos-sdk",
       "website": "https://www.leaplab.ai/"
     }
   }
